@@ -1,0 +1,88 @@
+
+    p{
+        font-size:2vw;
+    }
+    .Ep{
+        width:24vw;
+    }
+    .catalog3{
+       display:flex;
+       height:40vw;
+       margin:3px;
+    }
+    .text{
+        /* height:20%; */
+        padding: 7% 2% 7% 7%;
+        height:61vh;
+    }
+    .elephant{
+        width:30vw;
+        padding: 4% 4% 4% 1%;
+        margin-top:4%;
+    }
+    .navbar-brand {
+        font-size: 3vw;
+
+    }
+
+    .menu {
+        font-size: 1.5vw;
+        color: white;
+        padding: 10px;
+    }
+
+    .back-color {
+        background-color: black;
+        height: 50vh;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+    }
+    .back-color2 {
+        background-color: black;
+        height: 12vh;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    #heading {
+        text-align: center;
+        margin: auto;
+        font-size: 5vw;
+        color: Yellow;
+    }
+
+    .navbar {
+        padding: 0.18rem 2rem;
+    }
+
+    .card {
+        width: 100px;
+        height: 200px;
+    }
+    .small{
+        
+        width :30vw;
+        padding:1%;
+    }
+    .big{
+        margin-right: 5%;
+        width:43vw;
+        padding:1%;
+    }
+    .catalog {
+        width: 100%;
+        display:flex;
+        align-items: center;
+       justify-content: space-evenly;
+        
+    }
+    .catalog2 {
+        width: 94%;
+        display:flex;
+        
+       
+       margin-left:3%;
+        
+    }
